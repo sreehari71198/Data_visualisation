@@ -18,4 +18,5 @@ For the presentation, I focused mainly with the features that are impactful for 
 
 •LoanStatus of all Borrowers are with current and completed state •EmploymentStatus of all Borrowers are with Employed State •Top IncomeRange of all Borrowers are within $50,000-74,999 •Majority of the borrowers are with an occupation of Professional and Executive •Majority of the borrowers are with a rating or score from 4 to 8 •The borrowers rate follow an approximately unimodal distribution, with the peak around 0.16. •The origination amount of the loan is interesting. Here we see that the distribution is a right skewed with multiple peaks observed at 4000 USD, 10000 USD and 15000 USD. •Loan original amount and monthly loan payment is highly correlated and it is expected and borrowers interest rate and proper score are highly correlated(-vely), Borrower interest rate and loanamount are -vely correlated.
 
-To conclude this analysis , I say that the loan approval status is heavily dependent on the applicant's information on IncomeRange, Homeownerstatus and employment status.
+### To conclude this analysis ,
+I say that the loan approval status is heavily dependent on the applicant's information on IncomeRange, Homeownerstatus and employment status.
